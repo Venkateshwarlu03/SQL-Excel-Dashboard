@@ -11,3 +11,10 @@ This project uses SQL and Excel to analyse student performance and placement dat
 - **SQL Server Management Studio (SSMS)** – For storing and querying data.  
 - **Microsoft Excel** – For data analysis and dashboards.  
 - **Pivot Tables & Charts** – To summarize insights and visualize trends.
+# Project Workflow
+1. **Data Collection** – Gathered raw sales data.  
+2. **Data Storage** – Stored and managed the data in SQL Server Management Studio (SSMS).  
+3. **Data Analysis** – Wrote SQL queries to extract metrics and insights.[SQL Queries PDF]()   
+4. **Dashboard Creation** – Used Excel, Pivot Tables, and Charts to create a visual dashboard.  
+5. **Insights & Reporting** – Summarized key findings and trends from the data.
+
